@@ -3,7 +3,7 @@ Entrega Conteúdo Desafio Cyber
 
 ## Configurar o ambiente: duas VMs (Kali Linux e Metasploitable 2) no VirtualBox, com rede interna (host-only) (telas 01 a 04);
 
-## Executar ataques simulados: força bruta em FTP, automação de tentativas em formulário web (DVWA) e password spraying em SMB com enumeração de usuários (telas 06 a 17);
+## Executar ataques simulados: força bruta em FTP, automação de tentativas em formulário web (DVWA) e password spraying em SMB com enumeração de usuários (telas 06 a 22);
 
 ## Documentar os testes: wordlists simples, comandos utilizados, validação de acessos e recomendações de mitigação:
 
